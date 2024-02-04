@@ -1,0 +1,10 @@
+seaborn
+numpy
+pandas
+nbconvert
+matplotlib
+requests
+futures
+pandas-profiling
+scikit-learn
+sklearn
